@@ -1,2 +1,4 @@
 # imagestorage
-Just for image hosting dyno image links
+<a href="comission.md">commison only</a>
+
+vvv **my own image** vvv
