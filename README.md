@@ -9,4 +9,10 @@ vvv **my own image** vvv
 <img src="AIPISI-Element.png">
 <center>Path Choose</center>
 <img src="AIPISI-Path.png">
+<center>AIPISI Join</center>
+<img src="">
+<center>AIPISI Leave</center>
+<img src="">
+<center>AIPISi Kick</center>
+<img src="">
 <hr>
