@@ -12,7 +12,7 @@ vvv **my own image** vvv
 <center>AIPISI Join</center>
 <img src="sunday-sunday-hsr.gif">
 <center>AIPISI Leave</center>
-<img src="">
+<img src="dr-ratio-honkai-star-rail.gif">
 <center>AIPISi Ban</center>
-<img src="">
+<img src="dr-ratio-hsr.gif">
 <hr>
