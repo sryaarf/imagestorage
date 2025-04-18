@@ -2,7 +2,7 @@
 <a href="comission.md">commison only</a>
 
 vvv **my own image** vvv
-### AIPISi Server <br>
+### AIPISI Server <br>
 <center>Departement Choose</center>
 <img src="AIPISI-Departement.png">
 <center>Element Choose</center>
