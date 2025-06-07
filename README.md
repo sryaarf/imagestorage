@@ -2,6 +2,10 @@
 <a href="comission.md">commison only</a>
 
 vvv **my own image** vvv
+### Aurelia Academy Roleplay Server
+<img src="New Project 57 [C317B94].png">
+<hr>
+
 ### AIPISI Server <br>
 <center>Departement Choose</center>
 <img src="AIPISI-Departement.png">
