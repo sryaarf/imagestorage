@@ -2,8 +2,11 @@
 <a href="comission.md">commison only</a>
 
 vvv **my own image** vvv
-<ing src="">
-<img src="">
+### Spoor Signalling: Official Community
+<center>Spoor Signalling new Logo</center>
+<ing src="New Project 144 [067136F].png">
+<center>Dr. Ratio</center>
+<img src="20251203_215304.jpg">
 <hr>
 
 ### Aurelia Academy Roleplay Server
